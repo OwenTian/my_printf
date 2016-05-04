@@ -2,7 +2,6 @@
 #include "string.h"
 #include <stdlib.h>
 
-// itoa function taken from assignment
 
 /* Convert the integer D to a string and save the string in BUF. If
    BASE is equal to 'd', interpret that D is decimal, and if BASE is
